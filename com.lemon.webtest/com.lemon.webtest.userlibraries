@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Maven: org.seleniumhq.selenium:selenium-remote-driver:3.141.59">
+    <archive path="D:/apache-maven-3.9.9-bin/apache-maven-3.9.9/repository/org/seleniumhq/selenium/selenium-remote-driver/3.141.59/selenium-remote-driver-3.141.59.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-opera-driver:3.141.59">
+    <archive path="D:/apache-maven-3.9.9-bin/apache-maven-3.9.9/repository/org/seleniumhq/selenium/selenium-opera-driver/3.141.59/selenium-opera-driver-3.141.59.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-support:3.141.59">
+    <archive path="D:/apache-maven-3.9.9-bin/apache-maven-3.9.9/repository/org/seleniumhq/selenium/selenium-support/3.141.59/selenium-support-3.141.59.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-safari-driver:3.141.59">
+    <archive path="D:/apache-maven-3.9.9-bin/apache-maven-3.9.9/repository/org/seleniumhq/selenium/selenium-safari-driver/3.141.59/selenium-safari-driver-3.141.59.jar" />
+  </library>
+  <library name="Maven: org.apache.commons:commons-exec:1.3">
+    <archive path="D:/apache-maven-3.9.9-bin/apache-maven-3.9.9/repository/org/apache/commons/commons-exec/1.3/commons-exec-1.3.jar" />
+  </library>
+  <library name="Maven: net.bytebuddy:byte-buddy:1.8.15">
+    <archive path="D:/apache-maven-3.9.9-bin/apache-maven-3.9.9/repository/net/bytebuddy/byte-buddy/1.8.15/byte-buddy-1.8.15.jar" />
+  </library>
+  <library name="Maven: com.google.code.findbugs:jsr305:1.3.9">
+    <archive path="D:/apache-maven-3.9.9-bin/apache-maven-3.9.9/repository/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.jar" />
+  </library>
+  <library name="Maven: com.google.guava:guava:25.0-jre">
+    <archive path="D:/apache-maven-3.9.9-bin/apache-maven-3.9.9/repository/com/google/guava/guava/25.0-jre/guava-25.0-jre.jar" />
+  </library>
+  <library name="Maven: com.google.errorprone:error_prone_annotations:2.1.3">
+    <archive path="D:/apache-maven-3.9.9-bin/apache-maven-3.9.9/repository/com/google/errorprone/error_prone_annotations/2.1.3/error_prone_annotations-2.1.3.jar" />
+  </library>
+  <library name="Maven: org.checkerframework:checker-compat-qual:2.0.0">
+    <archive path="D:/apache-maven-3.9.9-bin/apache-maven-3.9.9/repository/org/checkerframework/checker-compat-qual/2.0.0/checker-compat-qual-2.0.0.jar" />
+  </library>
+  <library name="Maven: org.codehaus.mojo:animal-sniffer-annotations:1.14">
+    <archive path="D:/apache-maven-3.9.9-bin/apache-maven-3.9.9/repository/org/codehaus/mojo/animal-sniffer-annotations/1.14/animal-sniffer-annotations-1.14.jar" />
+  </library>
+  <library name="Maven: com.google.j2objc:j2objc-annotations:1.1">
+    <archive path="D:/apache-maven-3.9.9-bin/apache-maven-3.9.9/repository/com/google/j2objc/j2objc-annotations/1.1/j2objc-annotations-1.1.jar" />
+  </library>
+  <library name="Maven: com.squareup.okio:okio:1.14.0">
+    <archive path="D:/apache-maven-3.9.9-bin/apache-maven-3.9.9/repository/com/squareup/okio/okio/1.14.0/okio-1.14.0.jar" />
+  </library>
+  <library name="Maven: com.squareup.okhttp3:okhttp:3.11.0">
+    <archive path="D:/apache-maven-3.9.9-bin/apache-maven-3.9.9/repository/com/squareup/okhttp3/okhttp/3.11.0/okhttp-3.11.0.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-api:3.141.59">
+    <archive path="D:/apache-maven-3.9.9-bin/apache-maven-3.9.9/repository/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-java:3.141.59">
+    <archive path="D:/apache-maven-3.9.9-bin/apache-maven-3.9.9/repository/org/seleniumhq/selenium/selenium-java/3.141.59/selenium-java-3.141.59.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-edge-driver:3.141.59">
+    <archive path="D:/apache-maven-3.9.9-bin/apache-maven-3.9.9/repository/org/seleniumhq/selenium/selenium-edge-driver/3.141.59/selenium-edge-driver-3.141.59.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-chrome-driver:3.141.59">
+    <archive path="D:/apache-maven-3.9.9-bin/apache-maven-3.9.9/repository/org/seleniumhq/selenium/selenium-chrome-driver/3.141.59/selenium-chrome-driver-3.141.59.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-ie-driver:3.141.59">
+    <archive path="D:/apache-maven-3.9.9-bin/apache-maven-3.9.9/repository/org/seleniumhq/selenium/selenium-ie-driver/3.141.59/selenium-ie-driver-3.141.59.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-firefox-driver:3.141.59">
+    <archive path="D:/apache-maven-3.9.9-bin/apache-maven-3.9.9/repository/org/seleniumhq/selenium/selenium-firefox-driver/3.141.59/selenium-firefox-driver-3.141.59.jar" />
+  </library>
+  <library name="Maven: org.apache-extras.beanshell:bsh:2.0b6">
+    <archive path="D:/apache-maven-3.9.9-bin/apache-maven-3.9.9/repository/org/apache-extras/beanshell/bsh/2.0b6/bsh-2.0b6.jar" />
+  </library>
+  <library name="Maven: org.testng:testng:6.14.3">
+    <archive path="D:/apache-maven-3.9.9-bin/apache-maven-3.9.9/repository/org/testng/testng/6.14.3/testng-6.14.3.jar" />
+  </library>
+  <library name="Maven: com.beust:jcommander:1.72">
+    <archive path="D:/apache-maven-3.9.9-bin/apache-maven-3.9.9/repository/com/beust/jcommander/1.72/jcommander-1.72.jar" />
+  </library>
+  <library name="Maven: org.slf4j:slf4j-api:1.7.36">
+    <archive path="D:/apache-maven-3.9.9-bin/apache-maven-3.9.9/repository/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar" />
+  </library>
+  <library name="Maven: io.qameta.allure:allure-java-commons:2.23.0">
+    <archive path="D:/apache-maven-3.9.9-bin/apache-maven-3.9.9/repository/io/qameta/allure/allure-java-commons/2.23.0/allure-java-commons-2.23.0.jar" />
+  </library>
+  <library name="Maven: io.qameta.allure:allure-model:2.23.0">
+    <archive path="D:/apache-maven-3.9.9-bin/apache-maven-3.9.9/repository/io/qameta/allure/allure-model/2.23.0/allure-model-2.23.0.jar" />
+  </library>
+  <library name="Maven: io.qameta.allure:allure-test-filter:2.23.0">
+    <archive path="D:/apache-maven-3.9.9-bin/apache-maven-3.9.9/repository/io/qameta/allure/allure-test-filter/2.23.0/allure-test-filter-2.23.0.jar" />
+  </library>
+  <library name="Maven: io.qameta.allure:allure-testng:2.23.0">
+    <archive path="D:/apache-maven-3.9.9-bin/apache-maven-3.9.9/repository/io/qameta/allure/allure-testng/2.23.0/allure-testng-2.23.0.jar" />
+  </library>
+</eclipse-userlibraries>
+

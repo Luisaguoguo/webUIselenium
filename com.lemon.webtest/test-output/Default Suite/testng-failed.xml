@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default Suite]">
+  <test thread-count="5" name="com.lemon.webtest(failed)">
+    <classes>
+      <class name="webtest.logontestcase.logon">
+        <methods>
+          <include name="failedUsernameTest"/>
+          <include name="logontestcase"/>
+          <include name="failedPasswordTest"/>
+          <include name="setuptest"/>
+          <include name="teardowntest"/>
+        </methods>
+      </class> <!-- webtest.logontestcase.logon -->
+    </classes>
+  </test> <!-- com.lemon.webtest(failed) -->
+</suite> <!-- Failed suite [Default Suite] -->

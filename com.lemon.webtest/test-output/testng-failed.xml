@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [All Test Suite]">
+  <listeners>
+    <listener class-name="listener.testResultListener"/>
+    <listener class-name="listener.RetryLisener"/>
+    <listener class-name="listener.allureReportListener"/>
+  </listeners>
+  <test thread-count="5" name="C:/Users/Administrator/IdeaProjects/com.lemon.webtest(failed)">
+    <parameter name="browserName" value="firefox"/>
+    <classes>
+      <class name="webtest.logontestcase.logon">
+        <methods>
+          <include name="failedUsernameTest" invocation-numbers="1 1 1 1"/>
+          <include name="setuptest"/>
+          <include name="teardowntest"/>
+        </methods>
+      </class> <!-- webtest.logontestcase.logon -->
+    </classes>
+  </test> <!-- C:/Users/Administrator/IdeaProjects/com.lemon.webtest(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->

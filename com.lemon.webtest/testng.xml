@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Users/Administrator/IdeaProjects/com.lemon.webtest"><classes><class name="webtest.logontestcase.logon"><methods><include name="logontestcase"/><include name="failedUsernameTest"/><include name="failedPasswordTest"/></methods></class></classes></test></suite>
